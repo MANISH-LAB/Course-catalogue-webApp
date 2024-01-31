@@ -1,0 +1,40 @@
+{
+  "name": "courseapp",
+  "version": "1.0.0",
+  "description": "a web app with course listings , course details and a student dashboard containing information about enrolled courses",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANISH-LAB/CourseListings.git"
+  },
+  "keywords": [
+    "course",
+    "student",
+    "learn",
+    "manishkalyan"
+  ],
+  "author": "manish kalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANISH-LAB/CourseListings/issues"
+  },
+  "homepage": "https://github.com/MANISH-LAB/CourseListings#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.1.0",
+    "immer": "^10.0.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.3"
+  }
+}
