@@ -44,7 +44,7 @@ Follow these steps to run the project on your local machine.
 
 3. Experience the app by using the following credentials:
    
-   - Email: Enter any email from the `data/students.json` file.
+   - Email: Enter any email from the `src/data/students.json` file.
    - Password: Enter any random password.
 
 4. Explore the features of the app.
